@@ -9,7 +9,7 @@ int main()
     scanf("%s", ceasar_encrypt);
 
 
-    int k = 1; // Shift value for Caesar cipher
+    int k = 1; // Shift value for ceasar cipher
     
     //The output of the encrypted text is stored in the same variable ceasar_encrypt
     //The loop iterates through each character of the input string and applies the Caesar cipher encryption based on the shift value k.
