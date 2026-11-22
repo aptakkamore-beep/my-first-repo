@@ -25,4 +25,8 @@ int main(void)
         //  a newline character is printed to move to the next line.
         printf("\n");
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ccbbc6f (This repo may help in future.)
