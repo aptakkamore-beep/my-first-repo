@@ -25,4 +25,4 @@ int main(void)
         //  a newline character is printed to move to the next line.
         printf("\n");
     }
-}
+
